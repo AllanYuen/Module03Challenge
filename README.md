@@ -21,11 +21,10 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [User Story](<#user story>)
 - [Acceptance Criteria](<#acceptance criteria>)
 - [License](#license)
-- [Features](#features)
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+No special installation instructions required.
 
 ## Usage
 
@@ -61,7 +60,3 @@ THEN the password is either displayed in an alert or written to the page
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 Please refer to the [LICENSE](./LICENSE) file for more details.
-
-## Features
-
-If your project has a lot of features, list them here.
